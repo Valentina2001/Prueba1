@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.csprojAssemblyReference.cache
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.Form1.resources
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\Usuario\Documentos\ADSI\Oscar Sierra\Trimestre IV\prueba1\prueba1\obj\Debug\prueba1.pdb
